@@ -41,8 +41,12 @@
 
 <br>
 
-## 🕹️ Habilidades
+##
+  <!-- Imagem adicional -->
+  <img align="left" src="Computer.png" alt="Purple Computer" height="250" />
+
 <div align="right">
+## 🕹️ Habilidades
   <!-- Icones de habilidades -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" alt="Git" />
@@ -59,12 +63,8 @@
 
 <br>
 
-##
-  <!-- Imagem adicional -->
-  <img align="left" src="Computer.png" alt="Purple Computer" height="250" />
-
-## 💻 Sistemas Operacionais
 <div align="right">
+## 💻 Sistemas Operacionais
   <!-- Icones de sistemas operacionais -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="26" alt="Windows" />
   <img width="4" />
