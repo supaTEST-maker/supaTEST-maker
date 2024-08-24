@@ -74,6 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="26" alt="Android" />
 </div>
 
+<br>
+
 ## 📊 Estatísticas do GitHub
 > 📦 190.8 MB Usado no armazenamento do GitHub 
  > 
