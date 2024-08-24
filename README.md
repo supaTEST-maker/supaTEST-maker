@@ -32,13 +32,14 @@
 
 <br><br>
 
-
 # 💫 Sobre mim
 * 🚀  4º semestre de CC
 * ✉️  Me contate [ricardo.23.03.1749@gmail](mailto:ricardo.23.03.1749@gmail.com)
 * 🧠  Estou aprendendo tudo de React
 * 🖥️  Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍  Morando em Sorocaba, SP
+
+<br><br>
 
 # 🕹️ Habilidades
 <div align="left">
@@ -55,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="Docker" />
 </div>
+
+<br><br>
 
 # 💻 Sistemas Operacionais
 <div align="left">
