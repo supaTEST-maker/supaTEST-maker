@@ -42,7 +42,7 @@
 <br>
 
   <!-- Imagem adicional -->
-  <img align="right" src="Computer.png" alt="Purple Computer" height="200" />
+  <img align="right" src="Computer.png" alt="Purple Computer" height="160" />
 
 ### 🕹️ Habilidades
 <div align="left">
