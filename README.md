@@ -44,7 +44,7 @@
   <!-- Imagem adicional -->
   <img align="right" src="Computer.png" alt="Purple Computer" height="200" />
 
-## 🕹️ Habilidades
+### 🕹️ Habilidades
 <div align="left">
   <!-- Icones de habilidades -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" />
