@@ -41,7 +41,6 @@
 
 <br>
 
-##
   <!-- Imagem adicional -->
   <img align="right" src="Computer.png" alt="Purple Computer" height="200" />
 
