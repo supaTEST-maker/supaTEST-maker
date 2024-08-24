@@ -34,7 +34,7 @@
 
 # 💫 Sobre mim
 * 🚀  4º semestre da faculdade
-* ✉️  Me contate [ricardo.23.03.1749@gmail](mailto:ricardo.23.03.1749@gmail.com)
+* ✉️  Contate [ricardo.23.03.1749@gmail](mailto:ricardo.23.03.1749@gmail.com)
 * 🧠  Estou aprendendo tudo de React
 * 🖥️  Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍  Morando em Sorocaba, SP
