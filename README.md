@@ -57,10 +57,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="Docker" />
 </div>
 
-<br>
-
 <!-- Imagem adicional -->
 <img align="right" src="Computer.png" alt="Purple Computer" height="160" />
+
+<br>
 
 ### Sistemas Operacionais
 <div align="left">
