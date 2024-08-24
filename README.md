@@ -34,13 +34,13 @@
 
 
 # 💫 Sobre mim
+* 🚀  4º semestre de ciência da computação
+* ✉️  Me contate [ricardo.23.03.1749@gmail](mailto:ricardo.23.03.1749@gmail.com)
 * 🧠  Estou aprendendo tudo de React
-* ✉️  Me contate [ricardo.23.03.1749](mailto:ricardo.23.03.1749@gmail.com)
+* 🖥️  Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍  Morando em Sorocaba, SP
-* 🚀  4º semestre da faculdade
-* 🖥️ Veja mais em meu <a href="https://sites.google.com/view/ricardoag/home">site</a>
 
-### Habilidades
+## 🕹️ Habilidades
 <div align="left">
   <!-- Icones de habilidades -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
 </div>
 
-### Sistemas
+## 💻 Sistemas Operacionais
 <div align="left">
   <!-- Icones de sistemas operacionais -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36" alt="Windows" />
@@ -69,7 +69,7 @@
   <img width="12" />
 </div>
 
-## Meus dados
+## 📊 Estatísticas do GitHub
 > 📦 190.8 MB Usado no armazenamento do GitHub 
  > 
 > 🏆 221 Contribuições no ano de 2024
