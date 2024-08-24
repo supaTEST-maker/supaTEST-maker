@@ -11,17 +11,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="128" alt="Gráfico de Linguagens" />
 
 
-<div align="center">
+<div align="left">
   <!-- Links para redes sociais -->
   <a href="https://www.instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="https://wa.me/5515981888676" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp" />
-  </a>
-  <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a> 
   <a href="https://discordapp.com/users/wantakame#1689" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
   </a>
