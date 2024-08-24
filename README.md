@@ -40,27 +40,6 @@
 * 🚀  4º semestre da faculdade
 * 🖥️ Veja mais em meu <a href="https://sites.google.com/view/ricardoag/home">site</a>
 
-### Principais Linguagens
-  <!-- Gráfico de linguagens mais usadas -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="150" alt="Gráfico de Linguagens" />
-
-
-###
-  <!-- Imagem adicional -->
-  <img align="right" src="Computer.png" alt="Purple Computer" height="200" />
-### Principais Linguagens
-<div align="left">
-  <!-- Gráfico de linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="100" alt="Gráfico de Linguagens" />
-</div>
-
-### Principais Linguagens
-<div align="left">
-  <!-- Gráfico de linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="Gráfico de Linguagens" />
-</div>
-
-
 ### Habilidades
 <div align="left">
   <!-- Icones de habilidades -->
