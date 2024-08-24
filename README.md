@@ -8,7 +8,7 @@
 <img src="./HelloWorld.png" alt="Hello world!">
 
   <!-- Gráfico de linguagens mais usadas -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="125" alt="Gráfico de Linguagens" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="125" alt="Gráfico de Linguagens" />
 
 
 <div align="center">
