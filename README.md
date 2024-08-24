@@ -40,7 +40,7 @@
 * 🖥️  Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍  Morando em Sorocaba, SP
 
-## 🕹️ Habilidades
+# 🕹️ Habilidades
 <div align="left">
   <!-- Icones de habilidades -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" />
@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="Docker" />
 </div>
 
-## 💻 Sistemas Operacionais
+# 💻 Sistemas Operacionais
 <div align="left">
   <!-- Icones de sistemas operacionais -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="26" alt="Windows" />
