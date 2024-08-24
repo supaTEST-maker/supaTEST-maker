@@ -10,7 +10,7 @@
 <!-- Gráfico de linguagens mais usadas -->
 <img src="./HelloWorld.png" alt="Hello world!" class="responsive-image">
 
-<link rel="stylesheet" href="/path/to/styles.css">
+<link rel="stylesheet" href="./styles.css">
 
 
 <div align="center">
