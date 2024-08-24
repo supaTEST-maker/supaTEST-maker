@@ -16,9 +16,6 @@
   <a href="https://www.instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="https://discordapp.com/users/wantakame#1689" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
-  </a>
   <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
