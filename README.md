@@ -58,7 +58,7 @@
 </div>
 
 <!-- Imagem adicional -->
-<img align="right" src="Computer.png" alt="Purple Computer" height="160" />
+<img align="right" src="Computer.png" alt="Purple Computer" height="130" />
 
 <br>
 
