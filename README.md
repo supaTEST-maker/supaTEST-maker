@@ -24,7 +24,7 @@
   </a>
 </div>
 
-<br><br>
+<br><br><br>
 
 # 💫 Sobre mim
 * 🚀  4º semestre de ciência da computação
