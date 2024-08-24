@@ -16,15 +16,15 @@
   <a href="https://www.instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
+  <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a> 
   <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
   <a href="https://wa.me/5515981888676" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp" />
   </a>
-  <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a> 
 </div>
 
 <br><br>
