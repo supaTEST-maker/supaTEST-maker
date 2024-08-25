@@ -8,9 +8,9 @@
 <img src="./HelloWorld.png" alt="Hello world!">
 
 <!-- Gráfico de linguagens mais usadas -->
-<img src="./HelloWorld.png" alt="Hello world!" class="responsive-image">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="Gráfico de Linguagens" />
 
-<link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="/path/to/styles.css">
 
 
 <div align="center">
