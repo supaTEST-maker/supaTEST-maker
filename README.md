@@ -1,10 +1,9 @@
-<!-- Seção de Introdução -->
+<!-- Seção de introdução -->
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=500&lines=%F0%9F%91%8B+Sou+Ricardo+Andreotti;Aluno+de+Ci%C3%AAncia+da+Comput.+%F0%9F%92%AA" alt="Typing SVG" /></a></p>
-
 <!-- Imagem de banner -->
 <img src="./HelloWorld.png" alt="Hello world!">
 
-<!-- Gráfico de linguagens mais usadas no GitHub, alinhado à direita -->
+<!-- Gráfico de linguagens mais usadas no github, alinhado à direita -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="Gráfico de Linguagens" />
 
 <!-- Links para redes sociais com ícones no centro -->
@@ -21,7 +20,7 @@
 
 <br><br>
 
-<!-- Seção Sobre Mim -->
+<!-- Seção sobre mim -->
 # 💫 Sobre Mim
 * 🚀 No 4º semestre de CC
 * ✉️ [ricardo.23.03.1749@gmail.com](mailto:ricardo.23.03.1749@gmail.com)
@@ -29,12 +28,10 @@
 * 🖥️ Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍 Morando em Sorocaba, SP
 
-<!-- Seção de Habilidades -->
+<!-- Seção de habilidades -->
 ### Habilidades
-
-<!-- Imagem adicional alinhada à direita -->
+<!-- Imagem de enfeite alinhada à direita -->
 <img align="right" src="Computer.png" alt="Comoutador Roxo" height="130" />
-
 <div align="left">
   <!-- Ícones das habilidades com suas respectivas URLs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
@@ -53,7 +50,7 @@
 
 <br>
 
-<!-- Seção de Sistemas Operacionais -->
+<!-- Seção de sistemas operacionais -->
 ### Sistemas Operacionais
 <div align="left">
   <!-- Ícones dos sistemas operacionais -->
@@ -65,7 +62,7 @@
 
 <br>
 
-<!-- Seção de Cursos Atuais -->
+<!-- Seção de cursos atuais -->
 # 🎓 Cursos Atuais
 | Curso                                | Plataforma             |
 | ------------------------------------ | ---------------------- |
@@ -74,7 +71,7 @@
 | Java AI Powered                      | DIO                    |
 | Power BI                             | Simplifica             |
 
-<!-- Seção de Estatísticas do GitHub -->
+<!-- Seção de estatísticas do github -->
 # 📊 Estatísticas
 > 📦 190,8 MB usados no armazenamento
 > 
@@ -84,5 +81,5 @@
 > 
 > 🔑 7 repositórios privados
 
-<!-- Imagem adicional -->
+<!-- SVG de enfeite -->
 ![Purple SVG](./purple.svg)
