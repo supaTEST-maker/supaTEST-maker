@@ -77,5 +77,15 @@
 > 
 > 🔑 7 repositórios privados
 
+<!-- Seção de Cursos Atuais -->
+# 🎓 Cursos Atuais
+
+| Curso                                | Plataforma             |
+| ------------------------------------ | ---------------------- |
+| Bootcamp Blockchain                  | DIO                    |
+| Java AI Powered                      | DIO                    |
+| Imersão Dev com Google Gemini        | Alura                  |
+| Power BI III                         | Simplifica             |
+
 <!-- Imagem adicional -->
 ![Purple SVG](./purple.svg)
