@@ -65,6 +65,15 @@
 
 <br>
 
+<!-- Seção de Cursos Atuais -->
+## 🎓 Cursos Atuais
+| Curso                                | Plataforma             |
+| ------------------------------------ | ---------------------- |
+| Imersão Dev com Google Gemini        | Alura                  |
+| Bootcamp Blockchain                  | DIO                    |
+| Java AI Powered                      | DIO                    |
+| Power BI                             | Simplifica             |
+
 <!-- Seção de Estatísticas do GitHub -->
 ## 📊 Estatísticas do GitHub
 > 📦 190,8 MB usados no armazenamento do GitHub
@@ -74,16 +83,6 @@
 > 📜 21 repositórios públicos
 > 
 > 🔑 7 repositórios privados
-
-<!-- Seção de Cursos Atuais -->
-# 🎓 Cursos Atuais
-
-| Curso                                | Plataforma             |
-| ------------------------------------ | ---------------------- |
-| Bootcamp Blockchain                  | DIO                    |
-| Java AI Powered                      | DIO                    |
-| Imersão Dev com Google Gemini        | Alura                  |
-| Power BI III                         | Simplifica             |
 
 <!-- Imagem adicional -->
 ![Purple SVG](./purple.svg)
