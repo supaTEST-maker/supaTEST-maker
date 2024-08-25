@@ -39,10 +39,10 @@
 
 <!-- Seção Sobre Mim -->
 # 💫 Sobre mim
-* 🚀 4º semestre da faculdade
-* ✉️ Contate [ricardo.23.03.1749@gmail.com](mailto:ricardo.23.03.1749@gmail.com)
-* 🧠 Estou aprendendo tudo de React
+* ✉️ Me contate por [ricardo.23.03.1749@gmail.com](mailto:ricardo.23.03.1749@gmail.com)
+* 🚀 No 4º semestre de Ciência da Computação
 * 🖥️ Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
+* 🧠 Estou estudando Java e SQL
 * 🌍 Morando em Sorocaba, SP
 
 <br>
