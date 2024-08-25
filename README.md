@@ -69,7 +69,7 @@
 ## 🎓 Cursos Atuais
 | Curso                                | Plataforma             |
 | ------------------------------------ | ---------------------- |
-| Imersão Dev com Google Gemini        | Alura                  |
+| Imer. Dev com Google Gemini          | Alura                  |
 | Bootcamp Blockchain                  | DIO                    |
 | Java AI Powered                      | DIO                    |
 | Power BI                             | Simplifica             |
