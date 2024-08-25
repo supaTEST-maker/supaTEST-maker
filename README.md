@@ -47,10 +47,11 @@
 
 <br>
 
-<!-- Seção de Habilidades -->
-### Habilidades
 <!-- Imagem adicional alinhada à direita -->
 <img align="right" src="Computer.png" alt="Purple Computer" height="130" />
+
+<!-- Seção de Habilidades -->
+### Habilidades
 <div align="left">
   <!-- Ícones das habilidades com suas respectivas URLs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" />
