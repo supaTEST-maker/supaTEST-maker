@@ -86,13 +86,13 @@
 
 <!-- Seção de Estatísticas do GitHub -->
 ## 📊 Estatísticas do GitHub
-> 📦 190.8 MB Usado no armazenamento do GitHub 
+> 📦 190,8 MB usados no armazenamento do GitHub
 > 
-> 🏆 221 Contribuições no ano de 2024
+> 🏆 221 contribuições no ano de 2024
 > 
-> 📜 21 Repositórios Públicos 
+> 📜 21 repositórios públicos
 > 
-> 🔑 7 Repositórios Privados 
+> 🔑 7 repositórios privados
 
 <!-- Imagem adicional -->
 ![Purple SVG](./purple.svg)
