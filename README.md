@@ -20,43 +20,20 @@
   <!-- Instagram -->
   <a href="https://www.instagram.com/yourprofile" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=8E44AD" width="40" height="35" alt="Instagram" />
-  </a>
+  </a>&nbsp;
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=8E44AD" width="40" height="35" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;
   <!-- WhatsApp -->
   <a href="https://wa.me/5515981888676" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=9730&format=png&color=8E44AD" width="40" height="35" alt="WhatsApp" />
-  </a>
+  </a>&nbsp;
   <!-- Gmail -->
   <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=8E44AD" width="40" height="35" alt="Gmail" />
   </a>
 </div>
-
-
-
-
-
-
-<div align="left">
-  <!-- LinkedIn -->
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="filter: invert(28%) sepia(66%) saturate(4705%) hue-rotate(257deg) brightness(89%) contrast(92%);" />
-  
-  <!-- Twitter -->
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="filter: invert(28%) sepia(66%) saturate(4705%) hue-rotate(257deg) brightness(89%) contrast(92%);" />
-  
-  <!-- Discord -->
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="filter: invert(28%) sepia(66%) saturate(4705%) hue-rotate(257deg) brightness(89%) contrast(92%);" />
-  
-  <!-- YouTube -->
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="filter: invert(28%) sepia(66%) saturate(4705%) hue-rotate(257deg) brightness(89%) contrast(92%);" />
-</div>
-
-
-
-
 
 
 
