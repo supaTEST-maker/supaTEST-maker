@@ -19,19 +19,19 @@
 <div align="center">
   <!-- Instagram -->
   <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Instagram" />
+    <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=8E44AD" height="35" alt="Instagram" />
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="LinkedIn" />
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=8E44AD" height="35" alt="LinkedIn" />
   </a>
   <!-- WhatsApp -->
   <a href="https://wa.me/5515981888676" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Whatsapp" />
+    <img src="https://img.icons8.com/?size=100&id=9730&format=png&color=8E44AD" height="35" alt="WhatsApp" />
   </a>
   <!-- Gmail -->
   <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Gmail" />
+    <img src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=8E44AD" height="35" alt="Gmail" />
   </a>
 </div>
 
