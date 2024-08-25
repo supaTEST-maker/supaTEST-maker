@@ -66,7 +66,7 @@
 <br>
 
 <!-- Seção de Cursos Atuais -->
-## 🎓 Cursos Atuais
+# 🎓 Cursos Atuais
 | Curso                                | Plataforma             |
 | ------------------------------------ | ---------------------- |
 | Imer. Dev com Google Gemini          | Alura                  |
@@ -75,7 +75,7 @@
 | Power BI                             | Simplifica             |
 
 <!-- Seção de Estatísticas do GitHub -->
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub
 > 📦 190,8 MB usados no armazenamento do GitHub
 > 
 > 🏆 221 contribuições no ano de 2024
