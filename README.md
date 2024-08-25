@@ -64,13 +64,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="Docker" />
 </div>
 
-<!-- Imagem adicional alinhada à direita -->
-<img align="right" src="Computer.png" alt="Purple Computer" height="130" />
-
 <br>
 
 <!-- Seção de Sistemas Operacionais -->
 ### Sistemas Operacionais
+<!-- Imagem adicional alinhada à direita -->
+<img align="right" src="Computer.png" alt="Purple Computer" height="130" />
+
 <div align="left">
   <!-- Ícones dos sistemas operacionais -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="26" alt="Windows" />
