@@ -39,9 +39,9 @@
 
 <!-- Seção Sobre Mim -->
 # 💫 Sobre mim
-* ✉️ Me contate por [ricardo.23.03.1749@gmail.com](mailto:ricardo.23.03.1749@gmail.com)
-* 🚀 No 4º semestre de Ciência da Computação
-* 🖥️ Veja um pouco mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
+* ✉️ [ricardo.23.03.1749@gmail.com](mailto:ricardo.23.03.1749@gmail.com)
+* 🚀 No 4º semestre de CC
+* 🖥️ Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🧠 Estou estudando Java e SQL
 * 🌍 Morando em Sorocaba, SP
 
