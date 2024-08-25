@@ -29,8 +29,6 @@
 * 🖥️ Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍 Morando em Sorocaba, SP
 
-<br>
-
 <!-- Seção de Habilidades -->
 ### Habilidades
 
