@@ -22,7 +22,7 @@
 <br><br>
 
 <!-- Seção Sobre Mim -->
-# 💫 Sobre mim
+# 💫 Sobre Mim
 * 🚀 No 4º semestre de CC
 * ✉️ [ricardo.23.03.1749@gmail.com](mailto:ricardo.23.03.1749@gmail.com)
 * 🧠 Estou estudando Java e SQL
