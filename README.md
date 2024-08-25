@@ -4,11 +4,14 @@
 <!-- Imagem de banner -->
 <img src="./HelloWorld.png" alt="Hello world!">
 
-<!-- Gráfico de linguagens mais usadas no GitHub, alinhado à direita -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="Gráfico de Linguagens" />
+
+
+
+
+
 
 <!-- Links para redes sociais com ícones no centro -->
-<div align="center">
+<div align="right">
   <!-- Instagram -->
   <a href="https://www.instagram.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Instagram" /></a>
   <!-- LinkedIn -->
@@ -18,6 +21,13 @@
   <!-- Gmail -->
   <a href="mailto:ricardo.23.03.1749@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Gmail" /></a>
 </div>
+
+
+
+<!-- Gráfico de linguagens mais usadas no GitHub, alinhado à direita -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="Gráfico de Linguagens" />
+
+
 
 <br><br>
 
